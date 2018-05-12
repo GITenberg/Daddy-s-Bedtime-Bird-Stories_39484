@@ -1,0 +1,40 @@
+_repo: Daddy-s-Bedtime-Bird-Stories_39484
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Curtis, Elizabeth
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '7765'
+    url: http://www.gutenberg.org/2009/agents/7765
+  - agent_name: Choate, Florence
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '7764'
+    url: http://www.gutenberg.org/2009/agents/7764
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonner, Mary Graham
+    alias: Bonner, M. G. (Mary Graham)
+    birthdate: 1890
+    deathdate: 1974
+    gutenberg_agent_id: '40043'
+    url: http://www.gutenberg.org/2009/agents/40043
+description: ''
+gutenberg_issued: '2012-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: Daddy's Bedtime Bird Stories
+url: http://www.gutenberg.org/ebooks/39484
